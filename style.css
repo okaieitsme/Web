@@ -1,0 +1,26 @@
+h1 {
+  margin-top: 30px;
+  height: 40px;
+  text-align: center;
+  color: black;
+  background-color: #dedfe0;
+}
+img {
+max-width: 100%;
+display: block;
+height: auto;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 30px;
+}
+
+#tribute-info {
+  font-size: 24px;
+  background-color: #dedfe0;
+}
+
+#tribute-link {
+  color: #7a7b7c;
+}
